@@ -1,0 +1,15 @@
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4; /* Light background */
+    }
+
+    .box {
+        width: 900px; /* Width of the box */
+        padding: 60px; /* Space inside the box */
+        margin: 20px auto; /* Center the box with margin */
+        background-color: white; /* Background color of the box */
+        border: 2px solid #4a90e2; /* Border color and thickness */
+        border-radius: 8px; /* Rounded corners */
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Shadow effect */
+        align : center;
+    }
